@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: home
 author_profile: true
+title: ""
 ---
-
-&nbsp;
 ## About
   Undergraduate student at Osaka University.
 
@@ -21,7 +20,7 @@ author_profile: true
     - Chinese
 
 ## Education
-  __B.E.__   &nbsp; Mechanical Engineering &nbsp; *Osaka University*
+  - __B.E.__   &nbsp; Mechanical Engineering &nbsp; *Osaka University*
 
 ## Awards
-  - *Top-50 of Osaka-univ* Award, 2018
+  - *"Top-50 of Osaka-Univ"* Award, 2018
