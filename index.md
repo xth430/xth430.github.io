@@ -3,24 +3,20 @@ layout: home
 author_profile: true
 title: ""
 ---
-## About
-  Undergraduate student at Osaka University.
+# About
+  I am currently an undergraduate student at Osaka University.
 
-## Research Interests
+# Research Interests
   - Robotics
   - Computer Vision
   - Deep Learning
 
-## Skills
+# Skills
   - Python, C/C++, Matlab
-  - PyTorch, OpenCV, ...
-  - Language
-    - English
-    - Japanese
-    - Chinese
+  - PyTorch, TensorFlow/Keras, OpenCV, ...
 
-## Education
-  - __B.E.__   &nbsp; Mechanical Engineering &nbsp; *Osaka University*
+# Education
+  - ***B.E.***   &nbsp; Mechanical Engineering &nbsp; Osaka University
 
-## Awards
+# Awards
   - *"Top-50 of Osaka-Univ"* Award, 2018
