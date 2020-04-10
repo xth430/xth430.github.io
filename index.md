@@ -4,7 +4,7 @@ author_profile: true
 title: ""
 ---
 # About
-  I am currently an undergraduate student at Osaka University.
+  I am currently an undergraduate student at [Mechanical Dynamics Lab](https://ishikawa-lab.sakura.ne.jp/) , Osaka University.
 
 # Research Interests
   - Robotics
