@@ -16,7 +16,7 @@ title: ""
   - PyTorch, TensorFlow/Keras, OpenCV, ...
 
 # Education
-  - ***B.E.***   &nbsp; Mechanical Engineering &nbsp; Osaka University
+  - ***B.E.***   &nbsp; Mechanical Engineering &nbsp; -Osaka University
 
 # Awards
-  - *"Top-50 of Osaka-Univ"* Award, 2018
+  - *"Top-50 of Osaka-Univ"* Award &nbsp;[[link]](https://www.celas.osaka-u.ac.jp/wp-content/uploads/2019/01/h30_prize_recipients.pdf)
