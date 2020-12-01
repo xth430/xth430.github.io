@@ -16,7 +16,7 @@ title: ""
   - PyTorch, TensorFlow/Keras, OpenCV
 
 # Education
-  - B.E. in Mechanical Engineering, Osaka University, 2017.4 - 2021.3
+  - B.E. in Mechanical Engineering, Osaka University
 
 # Awards
-  - "Top-50 of Osaka-Univ." Award [[link]](https://www.celas.osaka-u.ac.jp/wp-content/uploads/2019/01/h30_prize_recipients.pdf)
+  - "Top-50 of Osaka-Univ." Award [[link]](https://www.celas.osaka-u.ac.jp/top-50-of-osaka-univ/) [[pdf]](https://www.celas.osaka-u.ac.jp/wp-content/uploads/2019/01/h30_prize_recipients.pdf)
