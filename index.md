@@ -13,10 +13,10 @@ title: ""
 
 # Skills
   - Python, C/C++, Matlab
-  - PyTorch, TensorFlow/Keras, OpenCV, ...
+  - PyTorch, TensorFlow/Keras, OpenCV
 
 # Education
-  - ***B.E.***   &nbsp; Mechanical Engineering &nbsp; -Osaka University
+  - B.E. in Mechanical Engineering, Osaka University
 
 # Awards
-  - *"Top-50 of Osaka-Univ"* Award &nbsp;[[link]](https://www.celas.osaka-u.ac.jp/wp-content/uploads/2019/01/h30_prize_recipients.pdf)
+  - "Top-50 of Osaka-Univ." Award [[link]](https://www.celas.osaka-u.ac.jp/wp-content/uploads/2019/01/h30_prize_recipients.pdf)
