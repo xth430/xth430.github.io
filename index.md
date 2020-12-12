@@ -4,8 +4,7 @@ author_profile: true
 title: ""
 ---
 
-**Recent Posts**
-
+**Recent Posts**  
 (Nov. 2020) Our work *"Inverse Rigid-body Dynamics Analysis using Deep Lagrangian Networks"* is presented at [the 63rd Japan Joint Automatic Control Conference](https://www.sice.jp/rengo63/).
 
 ## About
