@@ -10,7 +10,7 @@ title: ""
 ---
 
 ## About
-  I am currently an 4th year undergraduate student at [Mechanical Dynamics Lab, Osaka University](https://ishikawa-lab.sakura.ne.jp/), supervised by Assoc. Prof. [Yuki Minami](https://y373.sakura.ne.jp/minami/en/), working on physics-guided deep learning and its applications. I am also working as a research assistant, supervised by Prof. [Wataru Takano](http://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/takano/), on the research of 3D human pose estimation.
+  I am currently an 4th year undergraduate student at [Mechanical Dynamics Lab, Osaka University](https://ishikawa-lab.sakura.ne.jp/), supervised by [Assoc. Prof. Yuki Minami](https://y373.sakura.ne.jp/minami/en/), working on physics-guided deep learning and its applications. I am also working as a research assistant, supervised by [Prof. Wataru Takano](http://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/takano/), on the research of 3D human pose estimation.
 
 ## Research Interests
   - Robotics
