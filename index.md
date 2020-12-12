@@ -5,12 +5,11 @@ title: ""
 ---
 
 **Recent Posts**
-***
+
+---
 (Nov. 2020) Our work *"Inverse Rigid-body Dynamics Analysis using Deep Lagrangian Networks"* is presented at [the 63rd Japan Joint Automatic Control Conference](https://www.sice.jp/rengo63/).
 
-<!-- ## About -->
-**About**
-***
+## About
   I am currently an undergraduate student at [Mechanical Dynamics Lab](https://ishikawa-lab.sakura.ne.jp/) , Osaka University.
 
 ## Research Interests
