@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: single
 author_profile: true
 title: ""
+classes: wide
 ---
 
 **Recent Posts**  
