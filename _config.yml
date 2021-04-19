@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianhan Xu (徐 天涵)"
+title                    : "Tianhan Xu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tianhan Xu"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Tianhan Xu"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergraduate student"
-  location         : "Osaka, Japan"
+  bio              : "Master student"
+  location         : "Tokyo, Japan"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:xth430@gmail.com
+      url: mailto:tianhan.xu@mi.t.u-tokyo.ac.jp
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

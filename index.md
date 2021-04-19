@@ -4,29 +4,34 @@ author_profile: true
 title: ""
 ---
 
-**Recent Posts**  
-  - (Nov. 2020) Our work *"Inverse Rigid-body Dynamics Analysis using Deep Lagrangian Networks"* is presented at [the 63rd Japan Joint Automatic Control Conference](https://www.sice.jp/rengo63/). [[pdf]](/pdf/2G1-2.pdf) (in Japanese)
+## News
+  - [Mar. 2021] One paper has been accepted by CVPR 2021!
+  - [Nov. 2020] Our work *"Inverse Rigid-body Dynamics Analysis using Deep Lagrangian Networks"* is presented at [the 63rd Japan Joint Automatic Control Conference](https://www.sice.jp/rengo63/). [[pdf]](/pdf/2G1-2.pdf) (in Japanese)
 
 
 ## About
-  I am currently an 4th year undergraduate student at [Mechanical Dynamics Lab, Osaka University](https://ishikawa-lab.sakura.ne.jp/), supervised by [Assoc. Prof. Yuki Minami](https://y373.sakura.ne.jp/minami/en/), working on physics-guided deep learning and its applications. I am also working as a research assistant, supervised by [Prof. Wataru Takano](http://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/takano/), on the research of 3D human pose estimation.
+  I am currently a 1st year master student at [Machine Intelligent Lab.](https://www.mi.t.u-tokyo.ac.jp/en/), supervised by [Prof. Tatsuya Hadara](https://www.mi.t.u-tokyo.ac.jp/harada/).
 
 ## Research Interests
-  - Robotics
   - Computer Vision
   - Deep Learning
+
+## Publication
+  - **Tianhan Xu**, Wataru Takano. [Graph Stack Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 
 ## Skills
   - Python, C/C++, Matlab
   - PyTorch, TensorFlow/Keras, OpenCV
 
 ## Education
-  Osaka University, B.E. in Mechanical Engineering, Apr.2017 -- Mar.2021
+  [Apr.2021 -- Present ] Master in Information Science and Technology, The Univeristy of Tokyo
+  [Apr.2017 -- Mar.2021] B.E. in Mechanical Engineering, Osaka University
 
 ## Awards
+  - Eiji Mutoh Excellent Student Award
   - *"Top-50 of Osaka-Univ."* Award [[link]](https://www.celas.osaka-u.ac.jp/top-50-of-osaka-univ/) [[pdf]](https://www.celas.osaka-u.ac.jp/wp-content/uploads/2019/01/h30_prize_recipients.pdf)
 
 <br>
 
 ---
-<sup>Last update: 2020/12/12
+<sup>Last update: 2021/04/19
