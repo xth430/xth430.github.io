@@ -8,16 +8,17 @@ title: ""
   - [Mar. 2021] One paper has been accepted by CVPR 2021!
   - [Nov. 2020] Our work *"Inverse Rigid-body Dynamics Analysis using Deep Lagrangian Networks"* is presented at [the 63rd Japan Joint Automatic Control Conference](https://www.sice.jp/rengo63/). [[pdf]](/pdf/2G1-2.pdf) (in Japanese)
 
+---
 
 # About
-  I am currently a 1st year master student at [Machine Intelligent Lab.](https://www.mi.t.u-tokyo.ac.jp/en/), supervised by [Prof. Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/).
+  I am currently a 1st year master student at [Machine Intelligence Lab.](https://www.mi.t.u-tokyo.ac.jp/en/), supervised by [Prof. Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/).
 
 # Research Interests
   - Computer Vision
   - Deep Learning
 
 # Publication
-  - **Tianhan Xu**, Wataru Takano. [Graph Stack Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+  - **Tianhan Xu**, Wataru Takano. [Graph Stack Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385), *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
 
 # Skills
   - Python, C/C++, Matlab
