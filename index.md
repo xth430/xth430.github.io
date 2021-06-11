@@ -18,7 +18,7 @@ title: ""
   - Deep Learning
 
 # Publication
-  - **Tianhan Xu**, Wataru Takano. [Graph Stack Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385), *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
+  - **Tianhan Xu**, Wataru Takano. [Graph Stacked Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385), *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021.
 
 # Skills
   - Python, C/C++, Matlab
